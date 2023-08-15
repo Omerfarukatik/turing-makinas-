@@ -1,4 +1,4 @@
-#ömerfarukatik
+#ömerfarukatikk
 def calculate_n_squared(n,tape): 
     head = 1
     state = 'q0'
