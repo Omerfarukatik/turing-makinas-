@@ -1,2 +1,2 @@
-# turing-makinas-
-Bir sayının karesini hesaplayan turing makinası Python kodları
+# turing-makinası-
+Bir sayının karesini(n^2) hesaplayan turing makinası Python kodları
